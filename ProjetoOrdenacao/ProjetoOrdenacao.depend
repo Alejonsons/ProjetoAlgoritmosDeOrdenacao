@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1598725512 source:c:\users\vini_\onedrive\Área de trabalho\notas\ifsp\3º semestre\ed2\ordenacao\projetoordenacao\ordenacao.c
+	<stdio.h>
+	<stdlib.h>
+	"ordenacao.h"
+
+1598725382 c:\users\vini_\onedrive\Área de trabalho\notas\ifsp\3º semestre\ed2\ordenacao\projetoordenacao\ordenacao.h
+
+1599059566 source:c:\users\sérgio e maria\desktop\animes\projetoordenacao\ordenacao.c
+	<stdio.h>
+	<stdlib.h>
+	"ordenacao.h"
+
+1599057656 c:\users\sérgio e maria\desktop\animes\projetoordenacao\ordenacao.h
+
+1599059535 source:c:\users\sérgio e maria\desktop\animes\projetoordenacao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"ordenacao.h"
+
+1599233987 source:c:\users\55119\desktop\aulas ead\ed2\projetoordenacao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<sys/time.h>
+	"ordenacao.h"
+
+1599092520 c:\users\55119\desktop\aulas ead\ed2\projetoordenacao\ordenacao.h
+
+1599092686 source:c:\users\55119\desktop\aulas ead\ed2\projetoordenacao\ordenacao.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	"ordenacao.h"
+
+1599092501 source:c:\users\vini_\onedrive\Área de trabalho\projetoordenacao\projetoordenacao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<sys/time.h>
+	"ordenacao.h"
+
+1599092519 c:\users\vini_\onedrive\Área de trabalho\projetoordenacao\projetoordenacao\ordenacao.h
+
+1599092684 source:c:\users\vini_\onedrive\Área de trabalho\projetoordenacao\projetoordenacao\ordenacao.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	"ordenacao.h"
+
